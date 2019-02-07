@@ -25,3 +25,13 @@ bld/
 
 # manual cmake build ignores
 build/
+
+README.docx
+Submission.zip
+Submission/
+config/QuadControlParams_previous.txt
+images/Thumbs.db
+src/QuadControl_previous.cpp
+~$README.docx
+~WRL2228.tmp
+
